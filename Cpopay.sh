@@ -66,8 +66,8 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/FR13ND8/Fb-Cracker-v.3
-cd Fb-Cracker-v.3
+git clone https://github.com/cpopay/picek
+cd picek
 python2 crack.py
 fi
 
